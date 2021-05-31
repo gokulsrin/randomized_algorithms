@@ -1,4 +1,4 @@
-# Randomized Algorithms Coding Assingments 
+# Randomized Algorithms Coding Assignment 
 
 ## Problem 1: Quicksort Analysis:
 Please refer to [quicksort](./quicksort.ipynb). This file contains the results of my quicksort implementation and experimentation.
@@ -16,7 +16,7 @@ Please refer to [ballsandbins](./ballsandbins.ipynb). There are several visualiz
 Please refer to [CountSketchMin](./CountSketchMin.ipynb). From my experimentation, Count-Min seemed to be far and away the better algorithm space and _surprisingly_ accuracy-wise.  
 
 ## Problem 6: Distinct Item Estimation:
-Please refer to [EstimatingDistinctItems](./EstimatingDistinctItems.ipynb). I was most impressed by the Flajolet-Martin algorithm. It was absolutley incredible to see, emperically, how good the algorithm is. 
+Please refer to [EstimatingDistinctItems](./EstimatingDistinctItems.ipynb). I was most impressed by the Flajolet-Martin algorithm. It was absolutely incredible to see, empirically, how good the algorithm is. 
 
 
 
